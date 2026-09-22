@@ -15,4 +15,4 @@ const thing3 = " test"
 prompt((thing1 + thing2 + thing3)+" _____ working.")
 
 const now = new Date();
-console.log(now.toString()); 
+console.log(now.toString());
