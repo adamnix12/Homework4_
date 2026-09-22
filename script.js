@@ -10,8 +10,6 @@ const thing1 = "Fill in the blank:"
 const thing2 = " The"
 const thing3 = " test"
 
-// prompt(thing1+" is working")
-
 prompt((thing1 + thing2 + thing3)+" _____ working.")
 
 const now = new Date();
